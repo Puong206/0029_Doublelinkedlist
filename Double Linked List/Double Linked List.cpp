@@ -46,5 +46,6 @@ void addNode()
 		}
 
 		newNode->next = current;
+		newNode->prev = previous;
 	}
 }
