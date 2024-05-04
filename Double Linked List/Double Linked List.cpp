@@ -36,6 +36,6 @@ void addNode()
 	}
 	else
 	{
-
+		Node* current = START;
 	}
 }
